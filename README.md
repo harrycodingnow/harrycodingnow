@@ -25,8 +25,4 @@
 - ❤️ **[Rizzy](https://apple.co/4uSsiiF)** - chinese pick-up line generator app from conversation screenshot (close-source)
 - 🗣️ **[Yapyap](https://github.com/harrycodingnow/YapYap)** - yikyak clone for Taiwan
 
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/harrycodingnow)
   
