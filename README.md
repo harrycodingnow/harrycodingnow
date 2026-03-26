@@ -13,8 +13,6 @@
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Deep in vibe-coding mode – building AI-powered tools to solve problems.
-
 ## Current Project
 
 - 🧑‍💻 **[SudoCode](https://github.com/harrycodingnow/Sudo-Code)** - leetcode but you solve it with pseudocode
