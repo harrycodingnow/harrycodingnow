@@ -18,4 +18,8 @@
 ## Current Projects
 
 - 🧑‍💻 **[SudoCode](https://openclaw.ai)** - leetcode but you solve it with pseudocode
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/harrycodingnow)
   
