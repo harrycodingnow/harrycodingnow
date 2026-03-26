@@ -15,9 +15,18 @@
 
 > Deep in vibe-coding mode – building AI-powered tools to solve problems.
 
-## Current Projects
+## Current Project
 
-- 🧑‍💻 **[SudoCode](https://openclaw.ai)** - leetcode but you solve it with pseudocode
+- 🧑‍💻 **[SudoCode](https://github.com/harrycodingnow/Sudo-Code)** - leetcode but you solve it with pseudocode
+
+## Past Projects
+
+- 🧑‍🏫 **[Tutorific.ai](https://github.com/harrycodingnow/Tutorific.AI)** - learning tutor for hackPSU (3rd place overall!!!)
+- 💰 **[Money Talks](https://apple.co/3NOczjY)** - voice expense tracking app (close-source) 
+- 📷 **[InspoCam](https://apple.co/4t51aLr)** - ios app for taking photo with reference photo (close-source)
+- ❤️ **[Rizzy](https://apple.co/4uSsiiF)** - chinese pick-up line generator app from conversation screenshot (close-source)
+- 🗣️ **[Yapyap](https://github.com/harrycodingnow/YapYap)** - yikyak clone for Taiwan
+
 
 ## GitHub Activity
 
