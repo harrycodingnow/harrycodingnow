@@ -21,9 +21,9 @@
 
 ## Past Projects
 
-- 🧑‍🏫 **[Tutorific.ai](https://github.com/harrycodingnow/Tutorific.AI)** - learning tutor for hackPSU (3rd place overall!!!)
+- 🧑‍🏫 **[Tutorific.ai](https://github.com/harrycodingnow/Tutorific.AI)** - online learning assistant (hackPSU Fall 2024 Overall 3rd Place)
 - 💰 **[Money Talks](https://apple.co/3NOczjY)** - voice expense tracking app (close-source) 
-- 📷 **[InspoCam](https://apple.co/4t51aLr)** - ios app for taking photo with reference photo (close-source)
+- 📷 **[InspoCam](https://apple.co/4t51aLr)** - camera app with reference photo (close-source)
 - ❤️ **[Rizzy](https://apple.co/4uSsiiF)** - chinese pick-up line generator app from conversation screenshot (close-source)
 - 🗣️ **[Yapyap](https://github.com/harrycodingnow/YapYap)** - yikyak clone for Taiwan
 
