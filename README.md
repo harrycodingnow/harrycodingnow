@@ -16,7 +16,7 @@
 ## Current Project
 
 - 🧑‍💻 **[SudoCode](https://github.com/harrycodingnow/Sudo-Code)** - leetcode but you solve it with pseudocode
-- 💰 **[Money Talks](https://apple.co/3NOczjY)** - voice expense tracking app (close-source) 
+- 💰 **[Money Talks 出口成帳](https://apple.co/3NOczjY)** - voice expense tracking app (close-source) 
 ## Past Projects
 
 - 🧑‍🏫 **[Tutorific.ai](https://github.com/harrycodingnow/Tutorific.AI)** - online learning assistant (hackPSU Fall 2024 Overall 3rd Place)
