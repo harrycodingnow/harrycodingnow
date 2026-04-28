@@ -14,12 +14,12 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Projects
-- 📰 CrossView 交點新聞 - a Ground News clone for Taiwan. (Still working on it!!!)
-- 💰 **[Money Talks 出口成帳](https://apps.apple.com/tw/app/%E5%87%BA%E5%8F%A3%E6%88%90%E5%B8%B3-%E8%AA%9E%E9%9F%B3%E8%A8%98%E5%B8%B3%E7%B0%A1%E5%96%AE%E7%9B%B4%E6%8E%A5%E5%A4%A9%E5%A4%A9%E8%A8%98/id6753856530)** - voice expense tracking app with total of 10k downloads. (close-source)
+- 📰 **[Crossview 交點新聞]([https://apps.apple.com/tw/app/%E5%87%BA%E5%8F%A3%E6%88%90%E5%B8%B3-%E8%AA%9E%E9%9F%B3%E8%A8%98%E5%B8%B3%E7%B0%A1%E5%96%AE%E7%9B%B4%E6%8E%A5%E5%A4%A9%E5%A4%A9%E8%A8%98/id6753856530](https://apps.apple.com/us/app/crossview-%E4%BA%A4%E9%BB%9E%E6%96%B0%E8%81%9E/id6762544989))** - a Ground News clone for Taiwan. 
+- 💰 **[Money Talks 出口成帳](https://apps.apple.com/tw/app/%E5%87%BA%E5%8F%A3%E6%88%90%E5%B8%B3-%E8%AA%9E%E9%9F%B3%E8%A8%98%E5%B8%B3%E7%B0%A1%E5%96%AE%E7%9B%B4%E6%8E%A5%E5%A4%A9%E5%A4%A9%E8%A8%98/id6753856530)** - voice expense tracking app with total of 10k downloads. 
 - 🧑‍💻 **[SudoCode](https://github.com/harrycodingnow/Sudo-Code)** - leetcode but you solve it with pseudocode
 - 🧑‍🏫 **[Tutorific.ai](https://github.com/harrycodingnow/Tutorific.AI)** - online learning assistant (hackPSU Fall 2024 Overall 3rd Place)
-- 📷 **[InspoCam](https://apple.co/4t51aLr)** - camera app with reference photo (close-source)
-- ❤️ **[Rizzy](https://apple.co/4uSsiiF)** - chinese pick-up line generator app from conversation screenshot (close-source)
+- 📷 **[InspoCam](https://apple.co/4t51aLr)** - camera app with reference photo 
+- ❤️ **[Rizzy](https://apple.co/4uSsiiF)** - chinese pick-up line generator app from conversation screenshot 
 - 🗣️ **[Yapyap](https://github.com/harrycodingnow/YapYap)** - yikyak clone for Taiwan
 
   
