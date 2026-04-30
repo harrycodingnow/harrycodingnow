@@ -19,7 +19,6 @@
 - 🧑‍💻 **[SudoCode](https://github.com/harrycodingnow/Sudo-Code)** - leetcode but you solve it with pseudocode
 - 🧑‍🏫 **[Tutorific.ai](https://github.com/harrycodingnow/Tutorific.AI)** - online learning assistant (hackPSU Fall 2024 Overall 3rd Place)
 - 📷 **[InspoCam](https://apple.co/4t51aLr)** - camera app with reference photo 
-- ❤️ **[Rizzy](https://apple.co/4uSsiiF)** - chinese pick-up line generator app from conversation screenshot 
 - 🗣️ **[Yapyap](https://github.com/harrycodingnow/YapYap)** - yikyak clone for Taiwan
 
   
